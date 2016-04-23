@@ -7,6 +7,7 @@ displays its content, as well as scales, in a resizable window, with the ability
 using a mouse.
 
 Signal file format (100.dat):
+
 Number of signals: 2 interlaced
 Number of samples: 650000
 
