@@ -1,6 +1,7 @@
 # Physionet_ECG_Signal_Display_Qt_Creator
 
 Objective:
+
 Write a piece of software in any language that loads a binary data file (which is an ECG file) and
 displays its content, as well as scales, in a resizable window, with the ability to scroll through the signal
 using a mouse.
